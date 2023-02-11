@@ -15,14 +15,14 @@ text-align: center;
 font-family: Courier New;
   background-color:rgb(172, 197, 27);
   text-align: center;
-  color: white;
+  color: rgb(255, 255, 255);
 
 }
 
 
 #fox{
   font-family: Courier New;
-  background-color: rgb(25, 187, 52);
+  background-color: rgb(74, 25, 187);
   text-align: center;
   color: rgb(211, 183, 24);
 }
